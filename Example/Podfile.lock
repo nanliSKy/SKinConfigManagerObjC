@@ -1,0 +1,16 @@
+PODS:
+  - SKinConfigManager (0.1.0)
+
+DEPENDENCIES:
+  - SKinConfigManager (from `../`)
+
+EXTERNAL SOURCES:
+  SKinConfigManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SKinConfigManager: 43a86a391806fcbec278cf50597af1abba855550
+
+PODFILE CHECKSUM: b800ee784e0e5319f04721940a2c1310152a6da3
+
+COCOAPODS: 1.5.3
